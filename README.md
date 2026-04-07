@@ -17,7 +17,13 @@ Teams-style completion notifications for Claude Code on macOS, with a custom pop
 
 ## Install
 
-Clone the repo and run:
+Quick install:
+
+```bash
+npx github:lehzhu/claudesound --mode custom
+```
+
+Or clone the repo and run locally:
 
 ```bash
 git clone https://github.com/lehzhu/claudesound.git
