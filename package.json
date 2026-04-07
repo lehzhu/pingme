@@ -1,0 +1,25 @@
+{
+  "name": "claudesound",
+  "version": "1.0.0",
+  "description": "Teams-style completion notifications for Claude Code",
+  "scripts": {
+    "test": "node --test"
+  },
+  "bin": {
+    "claudesound": "./bin/claudesound.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "notifications",
+    "teams",
+    "sound",
+    "alert"
+  ],
+  "license": "MIT",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lehzhu/claudesound.git"
+  }
+}
