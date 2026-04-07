@@ -2,6 +2,8 @@
 
 Teams-style completion notifications for Claude Code on macOS, with a custom popup icon and Teams sound.
 
+Please try this out at your own risk. No testing has been performed on its stability. 
+
 ## What It Does
 
 - Adds `Stop` and `SubagentStop` hooks to Claude Code
@@ -71,3 +73,8 @@ npm test
 - The current custom popup path is macOS-focused.
 - The CLI stores sound and icon assets under `~/.claude/`.
 - If Microsoft Teams is not installed, the popup falls back to the Claude app icon when available.
+
+
+This product is provided ​“AS IS”. Other than as provided in this agreement, this developer makes no other warranties, express or implied, and hereby disclaims all implied warranties, including any warranty of merchantability and warranty of fitness for a particular purpose.
+
+
