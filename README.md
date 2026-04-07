@@ -1,4 +1,4 @@
-# claudesound
+# Ping Me! 
 
 Teams-style completion notifications for Claude Code on macOS, with a custom popup icon and Teams sound.
 
